@@ -7,6 +7,8 @@ Obrigado pela atenção, esta é uma calculadora logaritimica simples em Linguag
 
 Espero que gostem.
 
+O algoritmo está no arquivo main.c
+
 Rodem o código neste compilador Online:
 
 https://www.onlinegdb.com/online_c_compiler
